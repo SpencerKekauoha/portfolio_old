@@ -1,0 +1,32 @@
+$font-taken: 'taken', sans-serif;
+$font-droid: 'Droid Sans', sans-serif;
+$font-lato: 'Lato', sans-serif;
+$font-roboto: 'Roboto Condensed', sans-serif;
+$font: 'Josefin Sans', sans-serif;
+
+$c-red: #D13B3F;
+$c-sky: #6F9CB3;
+$c-pink: #F6E1E3;
+$c-font: #333;
+
+#section5 {
+  .footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 100vw;
+    background: url('images/footer-min.jpeg') no-repeat center;
+    background-size: cover;
+    h3 {
+      margin-top: 20px;
+      font-family: $font;
+      font-size: 8px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      text-align: center;
+      color: $c-red;
+    }
+  }
+}

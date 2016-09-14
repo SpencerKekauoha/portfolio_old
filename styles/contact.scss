@@ -1,0 +1,64 @@
+$font-taken: 'taken', sans-serif;
+$font-droid: 'Droid Sans', sans-serif;
+$font-lato: 'Lato', sans-serif;
+$font-roboto: 'Roboto Condensed', sans-serif;
+$font: 'Josefin Sans', sans-serif;
+
+$c-red: #D13B3F;
+$c-sky: #6F9CB3;
+$c-pink: #F6E1E3;
+$c-font: #333;
+
+#section4 {
+  margin-top: 200px;
+
+  .contact-container {
+    .contact-info {
+      h4 {
+        margin-top: 20px;
+        font-family: $font;
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        text-align: center;
+        color: $c-font;
+      }
+      .contact-hr {
+        // width: 50px;
+        // height: 1px;
+        // margin-top: 20px;
+        // background: $c-red;
+        // border: none;
+        height: 4px;
+        $color: $c-red;
+        color: $color;
+        background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="3px" height="3px" viewBox="0 0 3 3" fill="#{$color}"><polygon points="0,0.5 0,1.5 1.5,3 2.5,3"/><polygon points="2.5,0 1.5,0 3,1.5 3,0.5"/></svg>');
+        background-size: 3px 3px;
+        width: 15%;
+        border: none;
+      }
+      h6 {
+        margin-top: 20px;
+        font-family: $font;
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        text-align: center;
+        color: $c-font;
+      }
+    }
+    .contact-icon-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 50px;
+      .icon-link {
+        margin: 10px;
+        img {
+          height: 30px;
+        }
+      }
+    }
+  }
+}
