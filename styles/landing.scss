@@ -71,19 +71,19 @@ $c-font: #333;
 
 ///////////
 
-@media (min-width: 769px) {
+@media (min-width: 770px) {
   #section5Btn {
     display: none;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 769px) {
   #landingImgBtn {
     display: none;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
   .landing-section {
     .landing-container {
       .landing-title-container {
@@ -98,13 +98,13 @@ $c-font: #333;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 769px) {
   .link-nav {
     display: none;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
   .link-nav {
     position: absolute;
     top: 15%;

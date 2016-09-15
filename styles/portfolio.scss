@@ -578,7 +578,7 @@ $transparent-color: rgba(51,51,51,.6);
 
 ///////////
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
   // #section2 {
   //   display: flex;
   //   justify-content: center;
@@ -601,13 +601,13 @@ $transparent-color: rgba(51,51,51,.6);
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 770px) {
   #section-grid {
     display: none;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 770px) {
   #section-grid {
   display: flex;
   justify-content: center;
