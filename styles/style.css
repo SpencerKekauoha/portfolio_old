@@ -367,7 +367,7 @@
     transform: translateY(-10px) translateX(0) rotate(-45deg);
     background: #fff; }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .menu {
     display: none; } }
 
