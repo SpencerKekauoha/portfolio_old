@@ -109,21 +109,10 @@ $c-font: #333;
     }
   }
 }
-//
-// #section4  {
-//   height:100vh;
-//   width: 100%;
-//   background: #5BB6AD;
-// }
-//
-// #section5  {
-//   height:100vh;
-//   width: 100%;
-//   background: #E78D62;
-// }
-//
-// #section6  {
-//   height:100vh;
-//   width: 100%;
-//   background: #111C31;
-// }
+
+@media (max-width: 768px) {
+  #about-text {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
