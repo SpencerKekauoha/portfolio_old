@@ -4,7 +4,7 @@ angular.module('port')
       restrict: "A",
       link: function(scope, elem, attrs) {
             var section1Btn = document.getElementById("section1Btn"),
-            section2Btn = document.getElementById("section2Btn"),
+            port2Btn = document.getElementById("port2Btn"),
             section3Btn = document.getElementById("section3Btn"),
             section4Btn = document.getElementById("section4Btn"),
             section5Btn = document.getElementById("section5Btn"),
@@ -19,8 +19,8 @@ angular.module('port')
           TweenLite.to(window, 1, {scrollTo:{y:"#section1", offsetY:0}});
         };
 
-        section2Btn.onclick = function() {
-          TweenLite.to(window, 1, {scrollTo:{y:"#section-grid", offsetY:0}});
+        port2Btn.onclick = function() {
+          TweenLite.to(window, 1, {scrollTo:{y:"#section2", offsetY:0}});
         };
 
         section3Btn.onclick = function() {

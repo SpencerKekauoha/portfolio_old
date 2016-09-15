@@ -357,6 +357,14 @@
     transform: translateY(-10px) translateX(0) rotate(-45deg);
     background: #fff; }
 
+@media (min-width: 768px) {
+  .menu {
+    display: none; } }
+
+@media (min-width: 768px) {
+  .sandwich {
+    display: none; } }
+
 @media (max-width: 768px) {
   .menu-list {
     font-size: 40px; }
@@ -395,17 +403,13 @@
 
 .yui-modal-section #yui-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .yui-modal-section #yui-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .yui-modal-section #yui-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .yui-modal-section #yui-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .yui-modal-section #yui-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -458,17 +462,13 @@
 
 .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -521,17 +521,13 @@
 
 .weather-modal-section #weather-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .weather-modal-section #weather-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .weather-modal-section #weather-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .weather-modal-section #weather-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .weather-modal-section #weather-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -584,17 +580,13 @@
 
 .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -647,33 +639,29 @@
 
 .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: row;
     flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen {
+    background: #fff;
+    height: 25vh;
+    width: 75vw;
+    top: 0px;
+    margin-top: 25px;
+    overflow: hidden; }
+    .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading {
       display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
+      justify-content: space-between;
       flex-wrap: wrap;
-      background: #fff;
-      height: 25vh;
-      width: 75vw;
-      top: 0px;
-      margin-top: 25px;
-      overflow: hidden; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-        width: 90px;
-        animation: turn 5s infinite;
-        /*Animation -- Standard*/ }
+      width: 90px;
+      animation: turn 5s infinite;
+      /*Animation -- Standard*/ }
 
 @keyframes turn {
   0% {
@@ -684,59 +672,59 @@
     transform: rotate(270deg); }
   75% {
     transform: rotate(360deg); } }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading .box {
-          height: 20px;
-          width: 20px;
-          margin-bottom: 4px;
-          animation: flashy infinite ease-in; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-1 {
-          animation-duration: 5.5s;
-          animation-delay: 0s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-2 {
-          animation-duration: 5.5s;
-          animation-delay: 0.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-3 {
-          animation-duration: 5.5s;
-          animation-delay: 1s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-4 {
-          animation-duration: 5.5s;
-          animation-delay: 1.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-5 {
-          animation-duration: 5.5s;
-          animation-delay: 2s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-6 {
-          animation-duration: 5.5s;
-          animation-delay: 2.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-7 {
-          animation-duration: 5.5s;
-          animation-delay: 3s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-8 {
-          animation-duration: 5.5s;
-          animation-delay: 3.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-9 {
-          animation-duration: 5.5s;
-          animation-delay: 4s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-10 {
-          animation-duration: 5.5s;
-          animation-delay: 4.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-11 {
-          animation-duration: 5.5s;
-          animation-delay: 5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-12 {
-          animation-duration: 5.5s;
-          animation-delay: 5.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-13 {
-          animation-duration: 5.5s;
-          animation-delay: 6s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-14 {
-          animation-duration: 5.5s;
-          animation-delay: 6.5s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-15 {
-          animation-duration: 5.5s;
-          animation-delay: 7s; }
-        .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-16 {
-          animation-duration: 5.5s;
-          animation-delay: 7.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading .box {
+        height: 20px;
+        width: 20px;
+        margin-bottom: 4px;
+        animation: flashy infinite ease-in; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-1 {
+        animation-duration: 5.5s;
+        animation-delay: 0s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-2 {
+        animation-duration: 5.5s;
+        animation-delay: 0.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-3 {
+        animation-duration: 5.5s;
+        animation-delay: 1s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-4 {
+        animation-duration: 5.5s;
+        animation-delay: 1.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-5 {
+        animation-duration: 5.5s;
+        animation-delay: 2s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-6 {
+        animation-duration: 5.5s;
+        animation-delay: 2.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-7 {
+        animation-duration: 5.5s;
+        animation-delay: 3s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-8 {
+        animation-duration: 5.5s;
+        animation-delay: 3.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-9 {
+        animation-duration: 5.5s;
+        animation-delay: 4s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-10 {
+        animation-duration: 5.5s;
+        animation-delay: 4.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-11 {
+        animation-duration: 5.5s;
+        animation-delay: 5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-12 {
+        animation-duration: 5.5s;
+        animation-delay: 5.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-13 {
+        animation-duration: 5.5s;
+        animation-delay: 6s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-14 {
+        animation-duration: 5.5s;
+        animation-delay: 6.5s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-15 {
+        animation-duration: 5.5s;
+        animation-delay: 7s; }
+      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-16 {
+        animation-duration: 5.5s;
+        animation-delay: 7.5s; }
 
 @keyframes flashy {
   0% {
@@ -1124,9 +1112,9 @@
   100% {
     background: #ff8a00;
     opacity: 0.0; } }
-    .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1179,17 +1167,13 @@
 
 .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1242,17 +1226,13 @@
 
 .yui-modal-desktop-section #yui-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .yui-modal-desktop-section #yui-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .yui-modal-desktop-section #yui-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 200px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .yui-modal-desktop-section #yui-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 200px; }
 
 .yui-modal-desktop-section #yui-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1305,17 +1285,13 @@
 
 .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 200px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 200px; }
 
 .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1368,17 +1344,13 @@
 
 .weather-modal-desktop-section #weather-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .weather-modal-desktop-section #weather-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .weather-modal-desktop-section #weather-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 200px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .weather-modal-desktop-section #weather-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 200px; }
 
 .weather-modal-desktop-section #weather-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1431,33 +1403,29 @@
 
 .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: row;
     flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen {
+    background: #fff;
+    height: 200px;
+    width: 200px;
+    top: 0px;
+    margin-top: 25px;
+    overflow: hidden; }
+    .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading {
       display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
+      justify-content: space-between;
       flex-wrap: wrap;
-      background: #fff;
-      height: 100%;
-      width: 200px;
-      top: 0px;
-      margin-top: 25px;
-      overflow: hidden; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-        width: 90px;
-        animation: turn 5s infinite;
-        /*Animation -- Standard*/ }
+      width: 90px;
+      animation: turn 5s infinite;
+      /*Animation -- Standard*/ }
 
 @keyframes turn {
   0% {
@@ -1468,59 +1436,59 @@
     transform: rotate(270deg); }
   75% {
     transform: rotate(360deg); } }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading .box {
-          height: 20px;
-          width: 20px;
-          margin-bottom: 4px;
-          animation: flashy infinite ease-in; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-1 {
-          animation-duration: 5.5s;
-          animation-delay: 0s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-2 {
-          animation-duration: 5.5s;
-          animation-delay: 0.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-3 {
-          animation-duration: 5.5s;
-          animation-delay: 1s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-4 {
-          animation-duration: 5.5s;
-          animation-delay: 1.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-5 {
-          animation-duration: 5.5s;
-          animation-delay: 2s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-6 {
-          animation-duration: 5.5s;
-          animation-delay: 2.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-7 {
-          animation-duration: 5.5s;
-          animation-delay: 3s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-8 {
-          animation-duration: 5.5s;
-          animation-delay: 3.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-9 {
-          animation-duration: 5.5s;
-          animation-delay: 4s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-10 {
-          animation-duration: 5.5s;
-          animation-delay: 4.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-11 {
-          animation-duration: 5.5s;
-          animation-delay: 5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-12 {
-          animation-duration: 5.5s;
-          animation-delay: 5.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-13 {
-          animation-duration: 5.5s;
-          animation-delay: 6s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-14 {
-          animation-duration: 5.5s;
-          animation-delay: 6.5s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-15 {
-          animation-duration: 5.5s;
-          animation-delay: 7s; }
-        .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line .loading-container #load-screen #loading #box-16 {
-          animation-duration: 5.5s;
-          animation-delay: 7.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading .box {
+        height: 20px;
+        width: 20px;
+        margin-bottom: 4px;
+        animation: flashy infinite ease-in; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-1 {
+        animation-duration: 5.5s;
+        animation-delay: 0s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-2 {
+        animation-duration: 5.5s;
+        animation-delay: 0.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-3 {
+        animation-duration: 5.5s;
+        animation-delay: 1s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-4 {
+        animation-duration: 5.5s;
+        animation-delay: 1.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-5 {
+        animation-duration: 5.5s;
+        animation-delay: 2s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-6 {
+        animation-duration: 5.5s;
+        animation-delay: 2.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-7 {
+        animation-duration: 5.5s;
+        animation-delay: 3s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-8 {
+        animation-duration: 5.5s;
+        animation-delay: 3.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-9 {
+        animation-duration: 5.5s;
+        animation-delay: 4s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-10 {
+        animation-duration: 5.5s;
+        animation-delay: 4.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-11 {
+        animation-duration: 5.5s;
+        animation-delay: 5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-12 {
+        animation-duration: 5.5s;
+        animation-delay: 5.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-13 {
+        animation-duration: 5.5s;
+        animation-delay: 6s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-14 {
+        animation-duration: 5.5s;
+        animation-delay: 6.5s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-15 {
+        animation-duration: 5.5s;
+        animation-delay: 7s; }
+      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-16 {
+        animation-duration: 5.5s;
+        animation-delay: 7.5s; }
 
 @keyframes flashy {
   0% {
@@ -1908,9 +1876,9 @@
   100% {
     background: #ff8a00;
     opacity: 0.0; } }
-    .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 100px; }
+  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 100px; }
 
 .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -1963,17 +1931,13 @@
 
 .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 200px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 200px; }
 
 .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
@@ -2026,17 +1990,13 @@
 
 .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
-  justify-content: center; }
-  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content .background-line {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    height: 100%;
-    width: 1px;
-    background-color: #D13B3F; }
-    .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content .background-line img {
-      margin-top: 25px;
-      height: 200px; }
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%; }
+  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content img {
+    margin-top: 25px;
+    height: 200px; }
 
 .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;

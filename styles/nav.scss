@@ -229,6 +229,18 @@ $transparent-white: rgba(224, 224, 224,.5);
 
 //sandwich ends
 
+@media (min-width: 768px){
+  .menu {
+    display: none;
+  }
+}
+
+@media (min-width: 768px){
+  .sandwich {
+    display: none;
+  }
+}
+
 @media (max-width: 768px){
   .menu-list {
     font-size: 40px;
