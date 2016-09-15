@@ -47,6 +47,8 @@ $c-font: #333;
         font-size: 12px;
         font-weight: 300;
         text-align: center;
+        padding-left: 100px;
+        padding-right: 100px;
       }
       .about-tech-btn {
         margin-top: 25px;
@@ -60,6 +62,10 @@ $c-font: #333;
         color: $c-font;
         border: 2px $c-red solid;
         background-color: #fff;
+      }
+      .about-tech-btn:hover {
+        opacity: .7;
+        cursor: crosshair;
       }
       #myModal {
         .modal-dialog {

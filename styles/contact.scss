@@ -58,6 +58,10 @@ $c-font: #333;
         img {
           height: 30px;
         }
+        img:hover {
+          opacity: .7;
+          cursor: crosshair;
+        }
       }
     }
   }

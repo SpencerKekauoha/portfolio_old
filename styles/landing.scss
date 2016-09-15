@@ -55,9 +55,11 @@ $c-font: #333;
       // }
       img {
         height: 300px;
+        transition: ease-in-out .25s;
       }
       img:hover {
         cursor: crosshair;
+        margin-top: 20px;
       }
     }
   }
@@ -69,7 +71,7 @@ $c-font: #333;
 
 ///////////
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   #section5Btn {
     display: none;
   }
