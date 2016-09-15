@@ -143,6 +143,7 @@ $transparent-color: rgba(51,51,51,.6);
     width: 100%;
     top: 0px;
     overflow: hidden;
+    position: relative;
     #loading {
       display: flex;
       justify-content: space-between;
@@ -518,6 +519,10 @@ $transparent-color: rgba(51,51,51,.6);
       height: 45vh;
       width: 100%;
       background-color: rgba(51, 51, 51, 0.5);
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
       .yui-btn {
         // margin-top: 25px;
         padding: 9px;

@@ -2140,7 +2140,8 @@
     height: 45vh;
     width: 100%;
     top: 0px;
-    overflow: hidden; }
+    overflow: hidden;
+    position: relative; }
     #section2 #load-screen #loading {
       display: flex;
       justify-content: space-between;
@@ -2605,7 +2606,11 @@
       position: absolute;
       height: 45vh;
       width: 100%;
-      background-color: rgba(51, 51, 51, 0.5); }
+      background-color: rgba(51, 51, 51, 0.5);
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0; }
       #section2 #load-screen .overlay .yui-btn {
         padding: 9px;
         font-family: "Josefin Sans", sans-serif;
