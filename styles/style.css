@@ -2098,7 +2098,7 @@
     height: 200px;
     width: 100%;
     margin-bottom: -5px;
-    background: url("images/weather/weather.png") no-repeat center;
+    background: url("images/omen/omen_landing-min.png") no-repeat center;
     background-size: cover; }
     #section2 .weather-container .overlay {
       display: flex;
@@ -2716,7 +2716,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     background: #000;
-    height: 400px;
+    height: 325px;
     width: 100%;
     top: 0px;
     overflow: hidden; }
