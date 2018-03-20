@@ -453,7 +453,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-header .modal-title {
+.cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -462,44 +462,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-body {
+.cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-body p {
+  .cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 10px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content {
+.cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-content img {
+  .cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 100px; }
 
-.kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-links {
+.cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .kromo-modal-section #kromo-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.kromo-modal-section #kromo-modal .modal-dialog .modal-content .view-site-container {
+.cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .kromo-modal-section #kromo-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .cubiscan-modal-section #cubiscan-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -571,7 +571,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.waves-modal-section #waves-modal .modal-dialog .modal-content .modal-header .modal-title {
+.strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -580,44 +580,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.waves-modal-section #waves-modal .modal-dialog .modal-content .modal-body {
+.strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-body p {
+  .strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 10px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content {
+.strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-content img {
+  .strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 100px; }
 
-.waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-links {
+.strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .waves-modal-section #waves-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.waves-modal-section #waves-modal .modal-dialog .modal-content .view-site-container {
+.strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .waves-modal-section #waves-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .strat-builders-modal-section #strat-builders-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -630,7 +630,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.loading-modal-section #loading-modal .modal-dialog .modal-content .modal-header .modal-title {
+.brief-modal-section #brief-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -639,513 +639,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.loading-modal-section #loading-modal .modal-dialog .modal-content .modal-body {
+.brief-modal-section #brief-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-body p {
+  .brief-modal-section #brief-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 10px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content {
+.brief-modal-section #brief-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    background: #fff;
-    height: 25vh;
-    width: 75vw;
-    top: 0px;
+  .brief-modal-section #brief-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
-    overflow: hidden; }
-    .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      width: 90px;
-      animation: turn 5s infinite;
-      /*Animation -- Standard*/ }
+    height: 200px; }
 
-@keyframes turn {
-  0% {
-    transform: rotate(90deg); }
-  25% {
-    transform: rotate(180deg); }
-  50% {
-    transform: rotate(270deg); }
-  75% {
-    transform: rotate(360deg); } }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading .box {
-        height: 20px;
-        width: 20px;
-        margin-bottom: 4px;
-        animation: flashy infinite ease-in; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-1 {
-        animation-duration: 5.5s;
-        animation-delay: 0s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-2 {
-        animation-duration: 5.5s;
-        animation-delay: 0.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-3 {
-        animation-duration: 5.5s;
-        animation-delay: 1s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-4 {
-        animation-duration: 5.5s;
-        animation-delay: 1.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-5 {
-        animation-duration: 5.5s;
-        animation-delay: 2s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-6 {
-        animation-duration: 5.5s;
-        animation-delay: 2.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-7 {
-        animation-duration: 5.5s;
-        animation-delay: 3s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-8 {
-        animation-duration: 5.5s;
-        animation-delay: 3.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-9 {
-        animation-duration: 5.5s;
-        animation-delay: 4s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-10 {
-        animation-duration: 5.5s;
-        animation-delay: 4.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-11 {
-        animation-duration: 5.5s;
-        animation-delay: 5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-12 {
-        animation-duration: 5.5s;
-        animation-delay: 5.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-13 {
-        animation-duration: 5.5s;
-        animation-delay: 6s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-14 {
-        animation-duration: 5.5s;
-        animation-delay: 6.5s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-15 {
-        animation-duration: 5.5s;
-        animation-delay: 7s; }
-      .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-16 {
-        animation-duration: 5.5s;
-        animation-delay: 7.5s; }
-
-@keyframes flashy {
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-
-@keyframes gotime {
-  /*--ORANGE-- */
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-content img {
-    margin-top: 25px;
-    height: 100px; }
-
-.loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-links {
+.brief-modal-section #brief-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .brief-modal-section #brief-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .loading-modal-section #loading-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .brief-modal-section #brief-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.loading-modal-section #loading-modal .modal-dialog .modal-content .view-site-container {
+.brief-modal-section #brief-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .loading-modal-section #loading-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .brief-modal-section #brief-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -1158,7 +689,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-header .modal-title {
+.vb-modal-section #vb-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1167,44 +698,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-body {
+.vb-modal-section #vb-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-body p {
+  .vb-modal-section #vb-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 10px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content {
+.vb-modal-section #vb-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-content img {
+  .vb-modal-section #vb-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 100px; }
 
-.parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-links {
+.vb-modal-section #vb-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .vb-modal-section #vb-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .parallax-modal-section #parallax-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .vb-modal-section #vb-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.parallax-modal-section #parallax-modal .modal-dialog .modal-content .view-site-container {
+.vb-modal-section #vb-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .parallax-modal-section #parallax-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .vb-modal-section #vb-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -1276,7 +807,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
+.cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1285,44 +816,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-body {
+.cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-body p {
+  .cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 12px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content {
+.cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-content img {
+  .cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 200px; }
 
-.kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-links {
+.cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .view-site-container {
+.cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .kromo-modal-desktop-section #kromo-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .cubiscan-modal-desktop-section #cubiscan-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -1394,7 +925,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
+.brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1403,513 +934,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-body {
+.brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-body p {
+  .brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 12px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content {
+.brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    background: #fff;
-    height: 200px;
-    width: 200px;
-    top: 0px;
+  .brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
-    overflow: hidden; }
-    .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      width: 90px;
-      animation: turn 5s infinite;
-      /*Animation -- Standard*/ }
+    height: 300px; }
 
-@keyframes turn {
-  0% {
-    transform: rotate(90deg); }
-  25% {
-    transform: rotate(180deg); }
-  50% {
-    transform: rotate(270deg); }
-  75% {
-    transform: rotate(360deg); } }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading .box {
-        height: 20px;
-        width: 20px;
-        margin-bottom: 4px;
-        animation: flashy infinite ease-in; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-1 {
-        animation-duration: 5.5s;
-        animation-delay: 0s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-2 {
-        animation-duration: 5.5s;
-        animation-delay: 0.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-3 {
-        animation-duration: 5.5s;
-        animation-delay: 1s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-4 {
-        animation-duration: 5.5s;
-        animation-delay: 1.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-5 {
-        animation-duration: 5.5s;
-        animation-delay: 2s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-6 {
-        animation-duration: 5.5s;
-        animation-delay: 2.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-7 {
-        animation-duration: 5.5s;
-        animation-delay: 3s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-8 {
-        animation-duration: 5.5s;
-        animation-delay: 3.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-9 {
-        animation-duration: 5.5s;
-        animation-delay: 4s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-10 {
-        animation-duration: 5.5s;
-        animation-delay: 4.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-11 {
-        animation-duration: 5.5s;
-        animation-delay: 5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-12 {
-        animation-duration: 5.5s;
-        animation-delay: 5.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-13 {
-        animation-duration: 5.5s;
-        animation-delay: 6s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-14 {
-        animation-duration: 5.5s;
-        animation-delay: 6.5s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-15 {
-        animation-duration: 5.5s;
-        animation-delay: 7s; }
-      .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content .loading-container #load-screen #loading #box-16 {
-        animation-duration: 5.5s;
-        animation-delay: 7.5s; }
-
-@keyframes flashy {
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-
-@keyframes gotime {
-  /*--ORANGE-- */
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-content img {
-    margin-top: 25px;
-    height: 100px; }
-
-.loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-links {
+.brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .view-site-container {
+.brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .loading-modal-desktop-section #loading-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .brief-modal-desktop-section #brief-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -1922,7 +984,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
+.strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1931,44 +993,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-body {
+.strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-body p {
+  .strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 12px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content {
+.strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-content img {
+  .strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 200px; }
 
-.waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-links {
+.strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .view-site-container {
+.strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .waves-modal-desktop-section #waves-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .strat-builders-modal-desktop-section #strat-builders-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -1981,7 +1043,7 @@
     border: 2px #D13B3F solid;
     cursor: pointer; }
 
-.parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
+.vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-header .modal-title {
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
   font-weight: 700;
@@ -1990,44 +1052,44 @@
   letter-spacing: 3px;
   color: #333; }
 
-.parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-body {
+.vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-body {
   margin-top: 25px;
   position: relative;
   padding: 15px;
   padding-left: 50px;
   padding-right: 50px; }
-  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-body p {
+  .vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-body p {
     font-family: "Josefin Sans", sans-serif;
     font-size: 12px;
     font-weight: 300;
     text-align: center;
     color: #333; }
 
-.parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content {
+.vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-project-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   height: 100%; }
-  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-content img {
+  .vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-project-content img {
     margin-top: 25px;
     height: 200px; }
 
-.parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-links {
+.vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-project-links {
   display: flex;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 25px; }
-  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
+  .vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link {
     margin: 10px; }
-    .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
+    .vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .modal-project-links .icon-link img {
       height: 30px; }
 
-.parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .view-site-container {
+.vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .view-site-container {
   display: flex;
   justify-content: center;
   margin-top: 25px; }
-  .parallax-modal-desktop-section #parallax-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
+  .vb-modal-desktop-section #vb-desk-modal .modal-dialog .modal-content .view-site-container .view-site-btn a {
     margin-top: 20px;
     padding: 10px;
     font-family: "Josefin Sans", sans-serif;
@@ -2043,6 +1105,31 @@
 #section2 {
   height: 100%;
   width: 100vw; }
+  #section2 .brief-container {
+    height: 200px;
+    width: 100%;
+    background: url("images/brief/brief-hero.png") no-repeat center;
+    background-size: cover; }
+    #section2 .brief-container .overlay {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 200px;
+      width: 100%;
+      background-color: rgba(51, 51, 51, 0.6); }
+      #section2 .brief-container .overlay .yui-btn {
+        padding: 9px;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        text-align: center;
+        color: #fff;
+        border: 2px #D13B3F solid;
+        background: transparent;
+        z-index: 100;
+        opacity: 1; }
   #section2 .yui-container {
     height: 200px;
     width: 100%;
@@ -2068,20 +1155,20 @@
         background: transparent;
         z-index: 100;
         opacity: 1; }
-  #section2 .kromo-container {
+  #section2 .cubiscan-container {
     height: 200px;
     width: 100%;
     margin-bottom: -5px;
-    background: url("images/kromo/kromo-min.png") no-repeat center;
+    background: url("images/cubiscan/cubiscan-hero.png") no-repeat center;
     background-size: cover; }
-    #section2 .kromo-container .overlay {
+    #section2 .cubiscan-container .overlay {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 200px;
       width: 100%;
       background-color: rgba(51, 51, 51, 0.6); }
-      #section2 .kromo-container .overlay .yui-btn {
+      #section2 .cubiscan-container .overlay .yui-btn {
         padding: 9px;
         font-family: "Josefin Sans", sans-serif;
         font-size: 10px;
@@ -2120,19 +1207,19 @@
         background: transparent;
         z-index: 100;
         opacity: 1; }
-  #section2 .waves-container {
+  #section2 .strat-builders-container {
     height: 200px;
     width: 100%;
-    background: url("images/waves/waves.png") no-repeat center;
+    background: url("images/strat-builders/strat_orig_hero.png") no-repeat center;
     background-size: cover; }
-    #section2 .waves-container .overlay {
+    #section2 .strat-builders-container .overlay {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 200px;
       width: 100%;
       background-color: rgba(51, 51, 51, 0.6); }
-      #section2 .waves-container .overlay .yui-btn {
+      #section2 .strat-builders-container .overlay .yui-btn {
         padding: 9px;
         font-family: "Josefin Sans", sans-serif;
         font-size: 10px;
@@ -2145,514 +1232,20 @@
         background: transparent;
         z-index: 100;
         opacity: 1; }
-  #section2 #load-screen {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    background: #000;
-    height: 45vh;
-    width: 100%;
-    top: 0px;
-    overflow: hidden;
-    position: relative; }
-    #section2 #load-screen #loading {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      width: 90px;
-      animation: turn 5s infinite;
-      /*Animation -- Standard*/ }
-
-@keyframes turn {
-  0% {
-    transform: rotate(90deg); }
-  25% {
-    transform: rotate(180deg); }
-  50% {
-    transform: rotate(270deg); }
-  75% {
-    transform: rotate(360deg); } }
-      #section2 #load-screen #loading .box {
-        height: 20px;
-        width: 20px;
-        margin-bottom: 4px;
-        animation: flashy infinite ease-in; }
-      #section2 #load-screen #loading #box-1 {
-        animation-duration: 5.5s;
-        animation-delay: 0s; }
-      #section2 #load-screen #loading #box-2 {
-        animation-duration: 5.5s;
-        animation-delay: 0.5s; }
-      #section2 #load-screen #loading #box-3 {
-        animation-duration: 5.5s;
-        animation-delay: 1s; }
-      #section2 #load-screen #loading #box-4 {
-        animation-duration: 5.5s;
-        animation-delay: 1.5s; }
-      #section2 #load-screen #loading #box-5 {
-        animation-duration: 5.5s;
-        animation-delay: 2s; }
-      #section2 #load-screen #loading #box-6 {
-        animation-duration: 5.5s;
-        animation-delay: 2.5s; }
-      #section2 #load-screen #loading #box-7 {
-        animation-duration: 5.5s;
-        animation-delay: 3s; }
-      #section2 #load-screen #loading #box-8 {
-        animation-duration: 5.5s;
-        animation-delay: 3.5s; }
-      #section2 #load-screen #loading #box-9 {
-        animation-duration: 5.5s;
-        animation-delay: 4s; }
-      #section2 #load-screen #loading #box-10 {
-        animation-duration: 5.5s;
-        animation-delay: 4.5s; }
-      #section2 #load-screen #loading #box-11 {
-        animation-duration: 5.5s;
-        animation-delay: 5s; }
-      #section2 #load-screen #loading #box-12 {
-        animation-duration: 5.5s;
-        animation-delay: 5.5s; }
-      #section2 #load-screen #loading #box-13 {
-        animation-duration: 5.5s;
-        animation-delay: 6s; }
-      #section2 #load-screen #loading #box-14 {
-        animation-duration: 5.5s;
-        animation-delay: 6.5s; }
-      #section2 #load-screen #loading #box-15 {
-        animation-duration: 5.5s;
-        animation-delay: 7s; }
-      #section2 #load-screen #loading #box-16 {
-        animation-duration: 5.5s;
-        animation-delay: 7.5s; }
-
-@keyframes flashy {
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-
-@keyframes gotime {
-  /*--ORANGE-- */
-  0% {
-    background: #ff8a00;
-    opacity: 0; }
-  1.5% {
-    background: #ff8a00;
-    opacity: 1; }
-  3% {
-    background: #ff8a00;
-    opacity: 0.9; }
-  4.5% {
-    background: #ff8a00;
-    opacity: 0.8; }
-  6% {
-    background: #ff8a00;
-    opacity: 0.7; }
-  7.5% {
-    background: #ff8a00;
-    opacity: 0.6; }
-  9% {
-    background: #ff8a00;
-    opacity: 0.5; }
-  10.5% {
-    background: #ff8a00;
-    opacity: 0.4; }
-  12% {
-    background: #ff8a00;
-    opacity: 0.3; }
-  13.5% {
-    background: #ff8a00;
-    opacity: 0.2; }
-  15% {
-    background: #ff8a00;
-    opacity: 0.1; }
-  /*--YELLOW--*/
-  16.5% {
-    background: #ffd51c;
-    opacity: 1; }
-  18% {
-    background: #ffd51c;
-    opacity: 0.9; }
-  19.5% {
-    background: #ffd51c;
-    opacity: 0.8; }
-  21% {
-    background: #ffd51c;
-    opacity: 0.7; }
-  22.5% {
-    background: #ffd51c;
-    opacity: 0.6; }
-  24% {
-    background: #ffd51c;
-    opacity: 0.5; }
-  25.5% {
-    background: #ffd51c;
-    opacity: 0.4; }
-  27% {
-    background: #ffd51c;
-    opacity: 0.3; }
-  28.5% {
-    background: #ffd51c;
-    opacity: 0.2; }
-  30% {
-    background: #ffd51c;
-    opacity: 0.1; }
-  /*--RED--*/
-  31.5% {
-    background: #f5836d;
-    opacity: 1; }
-  33% {
-    background: #f5836d;
-    opacity: 0.9; }
-  34.5% {
-    background: #f5836d;
-    opacity: 0.8; }
-  36% {
-    background: #f5836d;
-    opacity: 0.7; }
-  37.5% {
-    background: #f5836d;
-    opacity: 0.6; }
-  39% {
-    background: #f5836d;
-    opacity: 0.5; }
-  40.5% {
-    background: #f5836d;
-    opacity: 0.4; }
-  42% {
-    background: #f5836d;
-    opacity: 0.3; }
-  43.5% {
-    background: #f5836d;
-    opacity: 0.2; }
-  45% {
-    background: #f5836d;
-    opacity: 0.1; }
-  /*--PURPLE--*/
-  46.5% {
-    background: #9575a7;
-    opacity: 1; }
-  48% {
-    background: #9575a7;
-    opacity: 0.9; }
-  49.5% {
-    background: #9575a7;
-    opacity: 0.8; }
-  51% {
-    background: #9575a7;
-    opacity: 0.7; }
-  52.5% {
-    background: #9575a7;
-    opacity: 0.6; }
-  54% {
-    background: #9575a7;
-    opacity: 0.5; }
-  55.5% {
-    background: #9575a7;
-    opacity: 0.4; }
-  57% {
-    background: #9575a7;
-    opacity: 0.3; }
-  58.5% {
-    background: #9575a7;
-    opacity: 0.2; }
-  60% {
-    background: #9575a7;
-    opacity: 0.1; }
-  /*--BLUE--*/
-  61.5% {
-    background: #5cc5e8;
-    opacity: 1; }
-  63% {
-    background: #5cc5e8;
-    opacity: 0.9; }
-  64.5% {
-    background: #5cc5e8;
-    opacity: 0.8; }
-  66% {
-    background: #5cc5e8;
-    opacity: 0.7; }
-  67.5% {
-    background: #5cc5e8;
-    opacity: 0.6; }
-  69% {
-    background: #5cc5e8;
-    opacity: 0.5; }
-  70.5% {
-    background: #5cc5e8;
-    opacity: 0.4; }
-  72% {
-    background: #5cc5e8;
-    opacity: 0.3; }
-  73.5% {
-    background: #5cc5e8;
-    opacity: 0.2; }
-  75% {
-    background: #5cc5e8;
-    opacity: 0.1; }
-  /*--GREEN--*/
-  76.5% {
-    background: #3dc0a7;
-    opacity: 1; }
-  78% {
-    background: #3dc0a7;
-    opacity: 0.9; }
-  79.5% {
-    background: #3dc0a7;
-    opacity: 0.8; }
-  81% {
-    background: #3dc0a7;
-    opacity: 0.7; }
-  82.5% {
-    background: #3dc0a7;
-    opacity: 0.6; }
-  84% {
-    background: #3dc0a7;
-    opacity: 0.5; }
-  85.5% {
-    background: #3dc0a7;
-    opacity: 0.4; }
-  87% {
-    background: #3dc0a7;
-    opacity: 0.3; }
-  88.5% {
-    background: #3dc0a7;
-    opacity: 0.2; }
-  90% {
-    background: #3dc0a7;
-    opacity: 0.1; }
-  100% {
-    background: #ff8a00;
-    opacity: 0.0; } }
-    #section2 #load-screen .overlay {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: absolute;
-      height: 45vh;
-      width: 100%;
-      background-color: rgba(51, 51, 51, 0.5);
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0; }
-      #section2 #load-screen .overlay .yui-btn {
-        padding: 9px;
-        font-family: "Josefin Sans", sans-serif;
-        font-size: 10px;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 3px;
-        text-align: center;
-        color: #fff;
-        border: 2px #D13B3F solid;
-        background: transparent;
-        z-index: 100;
-        opacity: 1; }
-  #section2 .parallax-container {
+  #section2 .vb-container {
     height: 200px;
     width: 100%;
     margin-bottom: -5px;
-    background: url("images/parallax/parallax.png") no-repeat center;
+    background: url("images/vb/vb_hero.png") no-repeat center;
     background-size: cover; }
-    #section2 .parallax-container .overlay {
+    #section2 .vb-container .overlay {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 200px;
       width: 100%;
       background-color: rgba(51, 51, 51, 0.6); }
-      #section2 .parallax-container .overlay .yui-btn {
+      #section2 .vb-container .overlay .yui-btn {
         padding: 9px;
         font-family: "Josefin Sans", sans-serif;
         font-size: 10px;
@@ -2703,11 +1296,14 @@
     max-width: 100%; }
   .grid-item img:hover {
     opacity: .7; }
-  .grid-kromo {
+  .grid-cubiscan {
     max-height: 200px;
     min-height: 255px; }
-  .grid-waves {
+  .grid-dailly-brief {
     max-height: 200px;
+    min-height: 255px; }
+  .grid-vb {
+    max-height: 300px;
     min-height: 255px; }
   #load-screen2 {
     display: flex;
